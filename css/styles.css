@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
  */
 
+ h1 {
+  color: #abc8da;
+ }
+
  body {
   font-family: Lato;
 }
@@ -28,5 +32,5 @@ section {
 }
 
 a {
-  color: #0084ff;
+  color: #f16406;
 }
