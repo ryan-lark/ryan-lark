@@ -5,7 +5,7 @@
  */
 
  h1 {
-  color: #abc8da;
+  color: #f2faff;
  }
 
  body {
@@ -13,7 +13,8 @@
 }
 
 header {
-  padding: 20px 0 20px;
+  padding: 15px 0 15px,
+
 }
 
 /* media query when the media is wider than 992px */
