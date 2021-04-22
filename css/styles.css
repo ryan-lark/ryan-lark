@@ -13,8 +13,7 @@
 }
 
 header {
-  padding: 15px 0 15px,
-
+  padding: 10px 0 10px;
 }
 
 /* media query when the media is wider than 992px */
@@ -25,11 +24,11 @@ header {
 }
 
 .portfolio-item {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 section {
-  padding: 80px 0;
+  padding: 40px 0;
 }
 
 a {
